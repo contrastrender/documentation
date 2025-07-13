@@ -1,0 +1,8 @@
+site_name: Contrast Render
+extra:
+  favicon: docs/assets/favicon.ico
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue
