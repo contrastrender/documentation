@@ -1,9 +1,8 @@
 site_name: Contrast Render
 docs_dir: src
 site_dir: docs
-extra:
-  favicon: docs/assets/favicon.ico
 theme:
+  favicon: assets/images/favicon.ico
   name: material
   palette:
     scheme: slate
