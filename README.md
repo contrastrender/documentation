@@ -1,0 +1,1 @@
+After the command "mkdocs build", src/CNAME needs to be copied to docs/CNAME before pushing to github

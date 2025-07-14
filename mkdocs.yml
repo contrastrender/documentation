@@ -1,6 +1,10 @@
 site_name: Contrast Render
 docs_dir: src
 site_dir: docs
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 theme:
   favicon: assets/images/favicon.ico
   name: material

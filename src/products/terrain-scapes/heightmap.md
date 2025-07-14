@@ -1,7 +1,6 @@
 # Heightmap
 
 ## About
-
-This addon allows you to create realistic landscape using multiple heightmaps and real world satelite images.
+This addon enables you to create a heightmap for the terrain. It allows you to combine different heightmaps and setup a custom material.
 
 ## Getting Started
